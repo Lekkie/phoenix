@@ -92,12 +92,4 @@ Do Key Management
     Key Exchange process
     PIN Translation process
     
- Asoft Interface Integration
- Interswitch Interface Integration
-
-
-
-
-github key
-f565d5f9839ee13e17e2fb0163a254b545ae291d
 
