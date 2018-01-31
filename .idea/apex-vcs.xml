@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/avantir/phoenix/iso8583/Iso8583SnkNode.java" />
+      <option name="path" value="/src/main/java/com/avantir/phoenix/messaging/Iso8583SnkNode.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/avantir/phoenix/iso8583/Iso8583SrcNode.java" />
+      <option name="path" value="/src/main/java/com/avantir/phoenix/messaging/Iso8583SrcNode.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/avantir/phoenix/iso8583/Iso8583Node.java" />
+      <option name="path" value="/src/main/java/com/avantir/phoenix/messaging/Iso8583Node.java" />
+    </index-move-record>
+  </component>
+</project>
